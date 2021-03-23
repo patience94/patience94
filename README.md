@@ -1,6 +1,7 @@
 ### 안녕하세요 👋 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:21300282@handong.edu)](mailto:21300282@handong.edu)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dongchan_isaac/)](https://www.instagram.com/dongchan_isaac/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dongchan_isaac/)](https://www.instagram.com/dongchan_isaac/) <br>
+
 한동대학교에서 ICT융합과 상담심리를 복수 전공한 박동찬이라고 합니다.
 이 Github는 제가 한동대학교에 재학중에 진행했던 프로젝트를 모아둔 곳입니다.
 
