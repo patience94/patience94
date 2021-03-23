@@ -6,12 +6,16 @@
 
 ### 활동 내역 및 수상 내역
 - (13.02) 한동대학교 무전공 입학
-- (13.12) 상담심리 & 사회복지 복수 전공 
+- (14.02 - 19.07) 상담심리 & 사회복지 복수 전공 
 - (15.05 - 17.05) 공군 752기 복무
 - (18.02 - 18.12) 호주어학연수
-- (19.03 - ing) ICT융합 & 상담심리로 전공 변경 
-- (19.09 - 20.12) 기술창업랩 (T-Lab) 활동
-- (20.03 - 20.06) WeTeam 팀장 활동
+- (19.08 - 21.08) ICT융합 & 상담심리 복수 전공
+- (19.09 - 20.12) '기술창업랩 (T-Lab)' 활동
+- (20.03 - 20.12) 'WeTeam' 팀장 활동
+- (20.08 - 20.12) 20-2학기 'ICT 공학수학' 수업조교
+- (20.12 - 21.01) 20년 겨울계절학기 '프로그래밍Ⅱ' 수업조교
+- (21.01 - 21.02) 21년 예비대학 'ICT응용입문' 수업조교
+- (21.08) 한동대학교 졸업 예정
 - 2020-1 학업공모전 '좋은수업소개하기' 대상
 - 2020 한동 SW Festival 소프트웨어 융합연구 공모전 최우수상 - '별자리 교육용 프로그램 - Sign*ZOne'
 - 2020 제 4회 전공 교과목 과제물 공모전 장려상 - '텍스트 마이닝을 활용한 한동대 익명 커뮤니티 분석'
@@ -23,6 +27,7 @@
 ### 언어 및 도구
 <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a href="#"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/ultraviolet/40/000000/registered-trademark.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
