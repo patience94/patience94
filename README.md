@@ -1,6 +1,7 @@
 ### 안녕하세요 👋 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:21300282@handong.edu)](mailto:21300282@handong.edu)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dongchan_isaac/)](https://www.instagram.com/dongchan_isaac/)
+
 <br>
 
 ### 활동 내역 및 수상 내역
@@ -16,6 +17,19 @@
 - 2020 제 4회 전공 교과목 과제물 공모전 장려상 - '텍스트 마이닝을 활용한 한동대 익명 커뮤니티 분석'
 - 2020 제 16회 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 장려상 - '유전자분석의 새로운 패러다임: 블록체인 기반 유전자분석 플랫폼의 사용자 수용 연구'
 - 2020 한국경영정보학회 대학(원)생 아이디어 공모전 장려상 'Bio–IT의 뉴 패러다임: Blockchain 기반 유전정보 분석 플랫폼'
+
+<br>
+
+### 언어 및 도구
+<a href="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a href="#"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+
+<br>
 
 ### 내 깃허브 및 언어 정보
 ![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=patience94&hide=prs&show_icons=true&hide_border=true&title_color=000)
