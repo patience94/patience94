@@ -26,7 +26,7 @@
 - 2020 제 4회 전공 교과목 과제물 공모전 장려상 - '텍스트 마이닝을 활용한 한동대 익명 커뮤니티 분석'
 - 2020 제 16회 KMAC 경영혁신 연구논문 및 사례연구 대학(원)생 공모전 장려상 - '유전자분석의 새로운 패러다임: 블록체인 기반 유전자분석 플랫폼의 사용자 수용 연구'
 - 2020 한국경영정보학회 대학(원)생 아이디어 공모전 장려상 - 'Bio–IT의 뉴 패러다임: Blockchain 기반 유전정보 분석 플랫폼'
-- 2021 「블록체인 기반 유전자분석 정보플랫폼의 수용에 대한 연구」 "_Information Systems Review_" 등재 (<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002752372">KCI 링크</a>)
+- 2021 「블록체인 기반 유전자분석 정보플랫폼의 수용에 대한 연구」 "_Information Systems Review_" 등재 (<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002752372">KCI</a>)
 
 <br>
 
